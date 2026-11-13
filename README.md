@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Husnexa/Husnexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Husnexa/Husnexa-Downloader/main/husnexa_logo.png" width="120" alt="Husnexa logo">
 
-Here are some ideas to get you started:
+# Husnan Anwar (Husnexa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build simple, fast Windows tools with clean interfaces.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+
+</div>
+
+## Featured project
+
+### [Husnexa Media Downloader](https://github.com/Husnexa/Husnexa-Downloader)
+
+A free Windows app for downloading video and audio from many sites, with a liquid-glass interface. Supports playlists, bulk lists, a download queue and a one-click yt-dlp update.
+
+[Download latest release](https://github.com/Husnexa/Husnexa-Downloader/releases/latest) | [Source code](https://github.com/Husnexa/Husnexa-Downloader)
+
+## Tech
+
+Python, JavaScript, yt-dlp, FFmpeg, Inno Setup
+
